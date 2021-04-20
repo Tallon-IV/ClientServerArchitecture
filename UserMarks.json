@@ -1,0 +1,8 @@
+{
+  "defaultId": {
+    "id": "defaultId",
+    "pass": "password01",
+    "name": "Test User",
+    "marks": "23"
+  }
+}
